@@ -4,8 +4,8 @@ I'm a software developer currently in my final year of a Master's degree in Soft
 
 ## 💻 Key Skills
 - Languages: **C**, **Rust**, **Python**, **JavaScript**, **Java**
-- Web Development: Vue.js, HTML, CSS, JS, API integration
-- Tools & Paradigms: CLI, systems, optimization, Git, GitHub
+- Web Development: Vue.js, HTML, CSS, JS, API integration, SpringBoot
+- Tools & Paradigms: CLI, systems, optimization, Git, GitHub, Docker
 - Software design and prototyping
 
 ## 🚀 Current Project
