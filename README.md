@@ -18,5 +18,5 @@ I'm a software developer currently in my final year of a Master's degree in Soft
 - Reinforcement Learning: An Introduction by Richard S. Sutton & Andrew G. Barto
   
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/felix-foucault/)
+- [LinkedIn](https://www.linkedin.com/in/félix-foucault/)
 - Email: foucaultfelix33@gmail.com
